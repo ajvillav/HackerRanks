@@ -4,10 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class HackerRanks {
-
-    public static void main(String[] args) {
-
+public class IntNumber {
+    public void sumaCien() {
+        
         Scanner consola = new Scanner(System.in);
         System.out.println("Ingresa los números enteros que desees: ");
         int suma = 0;
